@@ -1,6 +1,6 @@
-# Folio — submission inventory
+# Folio: submission inventory
 
-**Candidate:** Joseph Simo · josephsimo@icloud.com
+**Candidate:** Joseph Simo · joesimo@mail.grokbot.com
 
 **Live product:** https://folio-ajaia-tau.vercel.app
 
